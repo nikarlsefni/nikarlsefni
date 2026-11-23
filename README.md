@@ -1,4 +1,27 @@
-## Hi there 👋
+
+
+## 🛠️ Tecnologias e ferramentas
+
+<div align="center">
+
+### 🐍 Atualmente estudando
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+
+**Python — Curso Completo em andamento**
+
+</div>
+
+---
+
+## 🌱 Minha jornada
+
+- 🐍 Aprendendo Python do zero.
+- 🧠 Desenvolvendo minha lógica de programação.
+- 💻 Praticando conceitos e exercícios.
+- 🚀 Me preparando para desenvolver meus primeiros projetos.
+
+**Um código de cada vez, um aprendizado de cada vez! 💜**
 
 <!--
 **nikarlsefni/nikarlsefni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
