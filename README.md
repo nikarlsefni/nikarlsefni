@@ -1,39 +1,68 @@
-
-
-## 🛠️ Tecnologias e ferramentas
-
+<!-- BANNER -->
+<div align="center">
+  <img src="./assets/cyberpunk-banner.jpg" width="100%" />
+</div>
+<br>
 <div align="center">
 
-### 🐍 Atualmente estudando
+nikarlsefni.exe ♡
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+lost somewhere between code & neon lights
 
-**Python — Curso Completo em andamento**
+[ status: learning ]  [ location: night city ]
+
+૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა
 
 </div>
 
----
+⸻
 
-## 🌱 Minha jornada
+✦ ~/currently-learning
 
-- 🐍 Aprendendo Python do zero.
-- 🧠 Desenvolvendo minha lógica de programação.
-- 💻 Praticando conceitos e exercícios.
-- 🚀 Me preparando para desenvolver meus primeiros projetos.
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="55" />
 
-**Um código de cada vez, um aprendizado de cada vez! 💜**
+Python 🐍
 
-<!--
-**nikarlsefni/nikarlsefni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Curso completo em andamento
 
-Here are some ideas to get you started:
+Explorando o mundo da programação, um código de cada vez.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+⸻
+
+✦ ~/my-journey
+
+nikarlsefni@github:~$ cat journey.txt
+
+* 🐈 Aprendendo Python do zero.
+* 💻 Desenvolvendo minha lógica de programação.
+* 🕯️ Explorando novos conceitos e resolvendo desafios.
+* 🌙 Me preparando para desenvolver meus primeiros projetos.
+
+⸻
+
+✦ ~/little-thoughts
+
+<div align="center">
+
+“Every expert was once a beginner.”
+
+print("one day at a time ♡")
+
+૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა
+
+</div>
+
+⸻
+
+<div align="center">
+
+✦ thanks for visiting my little corner of the internet ✦
+
+connection terminated...
+
+♡ ·˚ ༘
+
+</div>
